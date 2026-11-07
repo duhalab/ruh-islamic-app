@@ -1,6 +1,5 @@
-# Privacy Policy
+# Privacy Policy for Ruh - Quran, Prayer & Islamic
 
-**Ruh – Quran, Prayer & Islamic**  
 **Effective date:** November 7, 2026  
 **Last updated:** November 7, 2026
 
