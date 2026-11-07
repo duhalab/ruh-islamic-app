@@ -174,7 +174,7 @@ We welcome community feedback, corrections to translations or typographical erro
 
 If you discover any error in Quranic text, Hadith, or prayer calculations, please report it immediately:
 - 📧 **Support Email:** [duhalab.bd@gmail.com](mailto:duhalab.bd@gmail.com)
-- 🐛 **Issue Tracker:** [GitHub Issues](https://github.com/duhalab/ruh-islamic/issues)
+- 🐛 **Issue Tracker:** [GitHub Issues](https://github.com/duhalab/ruh-islamic-app/issues)
 
 ---
 
